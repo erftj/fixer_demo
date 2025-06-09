@@ -2,7 +2,7 @@ from setuptools import setup
 
 
 setup(name='fixer_demo',
-      version='0.2',
+      version='0.3',
       description='Fixer service demo package',
       url='',
       author='erfan',
